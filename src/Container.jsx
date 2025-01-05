@@ -1,5 +1,3 @@
-/* eslint-disable react/prop-types */
-import { Button } from "./Button";
 
 export const DiaryEntryCard = props => (
     <div
@@ -27,16 +25,21 @@ export const Modal = props => (
         }}
         className={`${
             props.isHidden ? "hidden" : ""
-        } fixed inset-0 flex justify-center  items-center`}
+        } fixed inset-0 flex justify-center items-center`}
+        onClick={props.onCloseClicked} 
     >
-        {props.children}
 
-        <div className="relative">
-            <Button
-                title="Close"
-                onClicked={props.onCloseClicked}
-                className="bg-button-color absolute  -top-[21rem] right-2"
-            />
+        <div
+            className="relative bg-card-color p-4 rounded-md w-full max-w-lg text-white h-auto overflow-auto"
+            onClick={e => e.stopPropagation()} 
+        >
+            <button
+                onClick={props.onCloseClicked}
+                className="absolute top-2 right-2 bg-card-color  hover:bg-card-color text-slate-200 rounded-full w-12 h-12 flex items-center justify-center "
+        >
+                ✕
+            </button>
+            {props.children}
         </div>
     </div>
 );

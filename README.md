@@ -18,7 +18,7 @@ The Blog **"Dev's cave"** is a web application dedicated to sharing insights, tu
 
 ### 🚀 Live Demo
 
-<a href="https://inna-shchokina.github.io/time-machine/" target="_blank" rel="noopener noreferrer">View Project</a>   
+<a href="https://personal-diary-1ml2.onrender.com" target="_blank" rel="noopener noreferrer">View Project</a>   
 
 ### 📷 Screenshots
 

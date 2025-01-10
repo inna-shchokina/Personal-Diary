@@ -22,8 +22,8 @@ The Blog **"Dev's cave"** is a web application dedicated to sharing insights, tu
 
 ### 📷 Screenshots
 
-<a href="https://github.com/inna-shchokina/Personal-Diary/blob/dev/Personal_d/Personal_d_1.jpg?raw=true" target="_blank" rel="noopener noreferrer">View Interface Screenshot 1</a> 
+<a href="https://github.com/inna-shchokina/Personal-Diary/blob/dev/Personal_d/Personal_d_1.jpg?raw=true" target="_blank" rel="noopener noreferrer">View Home Page</a> 
 <br>
-<a href="https://github.com/inna-shchokina/Personal-Diary/blob/dev/Personal_d/Personal_d_2.jpg?raw=true" target="_blank" rel="noopener noreferrer">View Interface Screenshot 2</a>
+<a href="https://github.com/inna-shchokina/Personal-Diary/blob/dev/Personal_d/Personal_d_2.jpg?raw=true" target="_blank" rel="noopener noreferrer">View Add Publication Popup</a>
 <br>
-<a href="https://github.com/inna-shchokina/Personal-Diary/blob/dev/Personal_d/Personal_d_3.jpg?raw=true" target="_blank" rel="noopener noreferrer">View Interface Screenshot 3</a>  
+<a href="https://github.com/inna-shchokina/Personal-Diary/blob/dev/Personal_d/Personal_d_3.jpg?raw=true" target="_blank" rel="noopener noreferrer">View Publication Popup</a>  
